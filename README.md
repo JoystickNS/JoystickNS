@@ -6,6 +6,8 @@
 
 <h1>Programming languages <img src="https://cdn4.iconfinder.com/data/icons/programming-23/100/965-1024.png" height="32" /></h1>
 
+[![codewars](https://www.codewars.com/users/JoystickNS/badges/large)](https://www.codewars.com/users/JoystickNS)
+
 <!--
 **JoystickNS/JoystickNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
